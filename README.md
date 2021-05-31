@@ -1,8 +1,8 @@
-Marketing Mix Modeling
+# Marketing Mix Modeling #
 
 Market Mix Modeling (MMM) is a technique which helps in quantifying the impact of several marketing inputs on sales or Market Share. The purpose of using MMM is to understand how much each marketing input contributes to sales, and how much to spend on each marketing input.
 
-Dataset
+# Dataset #
 
 Sales of Brand X is given for 3238 stores. Also price of 5 competitors of Brand X (in those stores) is given.
 In addition to Sales, the following information are also given:
@@ -15,7 +15,7 @@ In addition to Sales, the following information are also given:
 
 * Price-Competitors: Prices of 5 competition brands in the store have been given also
 
-Working
+# Working #
 
 * Perform OLS Regression using all features.
 * Check significance of features (by P-value) and drop insignifant ones and do OLS again.
