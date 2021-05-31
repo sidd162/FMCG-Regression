@@ -1,4 +1,4 @@
-Marketing Mix Modeling
+**Marketing Mix Modeling**
 
 Market Mix Modeling (MMM) is a technique which helps in quantifying the impact of several marketing inputs on sales or Market Share. The purpose of using MMM is to understand how much each marketing input contributes to sales, and how much to spend on each marketing input.
 
