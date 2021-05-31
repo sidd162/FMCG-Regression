@@ -6,9 +6,13 @@ Dataset
 
 Sales of Brand X is given for 3238 stores. Also price of 5 competitors of Brand X (in those stores) is given.
 In addition to Sales, the following information are also given:
+
 Price: Avg price of Brand X in that store
+
 Feature: Whether value-added variant of Brand X is present in the store (1) or not (0)
+
 Display: Whether any store level promo of Brand X is present in the store (1) or not (0)
+
 Price-Competitors: Prices of 5 competition brands in the store have been given also
 
 Working
